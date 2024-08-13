@@ -11,5 +11,3 @@ dev66
 br12
 br34
 br56
-dev99
-dev00
